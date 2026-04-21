@@ -17,7 +17,7 @@ Soy originaria de la ciudad de Chinameca, en San Miguel, El Salvador. Actualment
 
 
 ## 💻 Intereses tecnológicos
-Me gusta el **Aprender nuevos conocimientos**.
+Me gusta  **conocer sobre la robotica**.
 
 
 ## 🤝  ¡Colaboremos!
