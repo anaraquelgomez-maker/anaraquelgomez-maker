@@ -78,6 +78,6 @@ Te interesa implementar nuevos conocimietos te doy la bienvenida, si eres un ent
 </div>
 
 ------
-Credit: [Ana Raquel](https://github.com/anaraquelgomez-maker)
+Creado: [Ana Raquel](https://github.com/anaraquelgomez-maker)
 
 Last Edited on: 20/04/2026
