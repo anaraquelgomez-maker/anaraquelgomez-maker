@@ -39,7 +39,25 @@ Te interesa implementar nuevos conocimietos te doy la bienvenida, si eres un ent
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=huiishan99&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=catppuccin_latte#gh-light-mode-only" />
 </a>
+---
 
+## 📂 Proyectos destacados
+
+### 🚀 [Manual de HTML5]
+**Descripción:** Es un sitio porgrama  interactivo desarrollado con HTML y CSS.
+
+* **Tecnologías usadas:** HTML5, CSS3, JavaScript.
+
+  ---
+
+## 📩 Contacto
+
+¡Estoy abierto a nuevas oportunidades y colaboraciones! Puedes contactarme a través de:
+
+* 💼 **LinkedIn:** https://www.linkedin.com/in/ana-raquel-g-82931a331/
+* 📧 **Correo electrónico:** ana.raquel.gomez@clases.edu.sv
+
+---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake.svg">
