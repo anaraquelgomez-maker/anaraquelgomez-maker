@@ -9,7 +9,7 @@
 Soy originaria de la ciudad de Chinameca, en San Miguel, El Salvador. Actualmente, me encuentro  en el mundo de la informática como estudiante de Kodigo, en El Salvador.
 
 ## 🎓 Educación
-- **Ingeneiera en Sistemas Informaticos** <br>
+- **Ingenieria en Sistemas Informaticos** <br>
   Universidad de Oriente(UNIVO)
   
 - **Curso de formación docente**  
